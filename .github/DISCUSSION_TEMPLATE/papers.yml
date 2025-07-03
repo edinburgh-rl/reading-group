@@ -1,0 +1,16 @@
+title: "[Paper Title]"
+labels: ["Suggest New Paper"]
+body:
+  - type: textarea
+    attributes:
+      label: "Paper Details"
+      value: |
+        **Link**: 
+
+        **Authors**: 
+
+        **Abstract**: 
+
+        **Notes**: 
+
+        **Extra material**:
