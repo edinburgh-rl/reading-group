@@ -1,5 +1,4 @@
 title: "[Paper Title]"
-labels: ["Suggest New Paper"]
 body:
   - type: textarea
     attributes:
